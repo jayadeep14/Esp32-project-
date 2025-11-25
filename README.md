@@ -1,2 +1,2 @@
 # Esp32 Project
-Please read our [contribution guidelines](readme.md).
+## [ESP32 Bluetooth speaker ](https://github.com/jayadeep14/Esp32-project-/tree/main/Bt_speaker).
