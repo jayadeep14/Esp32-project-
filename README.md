@@ -1,6 +1,4 @@
 # ESP32 Bluetooth speaker
-# Esp32 Project
-## [ESP32 Bluetooth speaker ](https://github.com/jayadeep14/Esp32-project-/tree/Bt_speaker).
 
 <img width="589" height="504" alt="1000046926" src="https://github.com/user-attachments/assets/05da8b75-a536-4306-ab7f-9a52b913176e" />
 
